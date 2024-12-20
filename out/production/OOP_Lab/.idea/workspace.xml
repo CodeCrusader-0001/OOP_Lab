@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bdad632-1bd4-4501-b462-fd31652d8ef4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/OOP_Lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_2,3/.idea/LAB_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/.idea/LAB_7,8,9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/CharFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/Craps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/DateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/DrivingCostCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/FigPackage/FigPackage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/FigPackage/src/Cone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/FigPackage/src/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/FigPackage/src/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/FigPackage/src/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/GasMileage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/InvoiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/PasswordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/TataMotors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_7,8,9/out/production/LAB_7,8,9/.idea/LAB_7,8,9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab(9,10)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab(9,10)/.idea/Lab(9,10).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab(9,10)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab(9,10)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab(9,10)/FibonacciIterative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab(9,10)/TowerOfHanoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab(9,10)/out/production/Lab(9,10)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab(9,10)/out/production/Lab(9,10)/.idea/Lab(9,10).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab(9,10)/out/production/Lab(9,10)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab(9,10)/out/production/Lab(9,10)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab(9,10)/out/production/Lab(9,10)/FibonacciIterative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab(9,10)/out/production/Lab(9,10)/TowerOfHanoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_9,10/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Calculater/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Calculater/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Calculater/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Calculater/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Calculater/Calculater.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Calculater/src/BasicCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Current_timee/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Current_timee/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Current_timee/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Current_timee/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Current_timee/CAL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Current_timee/Calculater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Current_timee/Current_timee.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Current_timee/src/DigitalClock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Lab_9,10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Quiz _App/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Quiz _App/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Quiz _App/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Quiz _App/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Quiz _App/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Quiz _App/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Quiz _App/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Quiz _App/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Quiz _App/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Quiz _App/src/main/java/com/example/demo1/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Quiz _App/src/main/java/com/example/demo1/QuizApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Quiz _App/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/Quiz _App/src/main/resources/com/example/demo1/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/out/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/out/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/out/.idea/out.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/out/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/out/production/Calculater/BasicCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/out/production/Lab_9,10/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/out/production/Lab_9,10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/out/production/Lab_9,10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/out/production/Lab_9,10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/out/production/Lab_9,10/CAL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/out/production/Lab_9,10/Calculater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/out/production/Lab_9,10/Current_timee.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/out/production/Lab_9,10/src/DigitalClock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_9,10/textedito/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2pwMvsK02gFmjr2Hy7yNDYiPe9N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bdad632-1bd4-4501-b462-fd31652d8ef4" name="Changes" comment="" />
+      <created>1733672919319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733672919319</updated>
+    </task>
+    <servers />
+  </component>
+</project>
